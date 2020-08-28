@@ -1,0 +1,7 @@
+Question 1: An error appears telling me that the two versions of the file are different, and that I should pull the cloud version to my local version.
+Question 2: An error appears telling me that two people just tried to edit the same code.
+Question 3: The only branches that appear is the master branch.
+Question 4: The branches that appear now are the master and header branches.
+Question 5: The files shown are .gitignore, README.md, and die.h
+Question 6: The files shown are .gitignore, README.md.
+Question 7: No, die.h is not in the master as we have not pushed the header branch to the master branch yet.
